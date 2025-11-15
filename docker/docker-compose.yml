@@ -10,7 +10,6 @@ services:
       - ../Node-1/data:/opt/besu/data
     ports:
       - "8545:8545"
-      - "30303:30303"
     networks:
       qbft-network:
         ipv4_address: 172.16.240.11

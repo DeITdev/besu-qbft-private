@@ -1,5 +1,5 @@
 {
-  "consensusAlgorithm": "qbft",
+  "algorithm": "qbft",
   "nodes": [
     {
       "name": "Node1 (Boot)",
